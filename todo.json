@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "title": "Write an addition function",
+        "description": "Create a function that takes two numbers as input and returns their sum.",
+        "functionName": "add",
+        "parameters": ["num1", "num2"],
+        "testCases": [
+            {"input": [2, 3], "expectedOutput": 5},
+            {"input": [10, -5], "expectedOutput": 5} 
+        ],
+        "assignee": null,
+        "progress": null, 
+        "submissionNotes": null,
+        "document": null
+    },
+    {
+        "id": 2,
+        "title": "Write a subtraction function",
+        "description": "Create a function that takes two numbers as input and returns their difference.",
+        "functionName": "subtract",
+        "parameters": ["num1", "num2"], 
+        "testCases": [
+            {"input": [8, 3], "expectedOutput": 5},
+            {"input": [-4, 2], "expectedOutput": -6} 
+        ],
+        "assignee": null,
+        "progress": null, 
+        "submissionNotes": null,
+        "document": null
+    },
+    {
+        "id": 3,
+        "title": "Write a multiplication function",
+        "description": "Create a function that takes two numbers as input and returns their product.",
+        "functionName": "multiply",
+        "parameters": ["num1", "num2"], 
+        "testCases": [
+            {"input": [5, 4], "expectedOutput": 20},
+            {"input": [0, 12], "expectedOutput": 0} 
+        ],
+        "assignee": null,
+        "progress": null, 
+        "submissionNotes": null,
+        "document": null
+        
+    },
+    {
+        "id": 4,
+        "title": "Write a division function",
+        "description": "Create a function that takes two numbers as input and returns their quotient. Handle division by zero.",
+        "functionName": "divide",
+        "parameters": ["num1", "num2"], 
+        "testCases": [
+            {"input": [10, 2], "expectedOutput": 5},
+            {"input": [8, 0], "expectedOutput": "Error: Division by zero"} 
+        ],
+        "assignee": null,
+        "progress": null, 
+        "submissionNotes": null,
+        "document": null
+    },
+    {
+        "id": 5,
+        "title": "Write a modulus function",
+        "description": "Create a function that takes two numbers and returns the remainder after division.",
+        "functionName": "modulus",
+        "parameters": ["num1", "num2"],
+        "testCases": [
+            {"input": [16, 5], "expectedOutput": 1},
+            {"input": [7, 3], "expectedOutput": 1} 
+        ],
+        "assignee": null,
+        "progress": null, 
+        "submissionNotes": null,
+        "document": null
+    }
+]

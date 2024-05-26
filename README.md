@@ -1,7 +1,9 @@
 # CN-MINI-PROJECT
 Overview:
 This project involves creating a task management system using socket programming. The system allows multiple clients to connect to a central server to manage and track tasks.
+
 Description:
+ 
  Client Side:
 - The client establishes a socket connection with the server using TCP/IP.
 - It sets up an SSL context for secure communication with the server.
